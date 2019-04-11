@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="LogIP">192.168.0.71</string>
+    <string name="UpdateIP">http://192.168.0.71:8080/examples/</string>
+    <string name="DatabaseUser">sa</string>
+    <string name="LogPort">8080</string>
+    <string name="DatabaseIP">192.168.0.71</string>
+    <string name="DatabasePass">WineApp001</string>
+</map>

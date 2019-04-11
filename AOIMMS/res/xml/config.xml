@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <!-- <url>jdbc:sqlserver://192.168.0.245:1433; DatabaseName=ptdb</url> -->
+    <url>jdbc:jtds:sqlserver://192.168.0.245:1433/ptdb</url>
+    <user>sa</user>
+    <password>sa</password>
+</config>

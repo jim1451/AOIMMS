@@ -1,0 +1,1 @@
+copy bin/AOIMMS.apk "C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\examples"\AOIMMS.apk

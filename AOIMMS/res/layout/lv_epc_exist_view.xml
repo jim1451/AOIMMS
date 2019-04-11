@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <TextView 
+        android:id="@+id/tv_epc_already_exist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFF0000"
+        android:textSize="20sp"
+        />
+    
+    <ListView 
+        android:id="@+id/lv_bond_epc_exist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ></ListView>
+
+</LinearLayout>

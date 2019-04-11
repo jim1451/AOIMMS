@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp" >
+
+   <TextView
+        android:id="@+id/lvItemID_outbond"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:background="#DDDDDD"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/lvItemCCDC_outbond"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/lvItemNum_outbond"
+        android:layout_width="60dp"
+        android:background="#DDDDDD"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/lvItemName_outbond"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/lvItemXiyuName_outbond"
+        android:background="#DDDDDD"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/lvItemType_outbond"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:gravity="center" 
+        />
+     <TextView
+        android:id="@+id/lvItemUnit_outbond"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:background="#DDDDDD"
+        android:gravity="center" />
+    
+
+    <TextView
+        android:id="@+id/lvItemUnitPrice_outbond"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+      <TextView
+        android:id="@+id/lvItemTotalMoney_outbond"
+        android:background="#DDDDDD"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+     <TextView
+        android:id="@+id/lvItemkuFangHao_outbond"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+     <TextView
+        android:id="@+id/lvItemKuWeiHao_outbond"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+       	android:background="#DDDDDD"
+        android:gravity="center" />
+    
+    
+
+  
+
+    <!--  
+    
+    <Button
+        android:id="@+id/lvItemBack_outbond"
+        android:layout_width="100dp"
+        android:background="@null"
+        android:textSize="14sp"
+        android:layout_height="match_parent"
+        android:gravity="center" 
+        />
+	-->
+</LinearLayout>

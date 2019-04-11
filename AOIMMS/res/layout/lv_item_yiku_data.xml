@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp" >
+
+   <TextView
+        android:id="@+id/lvItemID_yiku"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:background="#DDDDDD"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/lvItemCCDC_yiku"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/lvItemNum_yiku"
+        android:layout_width="60dp"
+        android:background="#DDDDDD"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/lvItemName_yiku"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/lvItemXiyuName_yiku"
+        android:background="#DDDDDD"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+    
+    <TextView
+        android:id="@+id/lvItemType_yiku"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:gravity="center" 
+        />
+     <TextView
+        android:id="@+id/lvItemUnit_yiku"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:background="#DDDDDD"
+        android:gravity="center" />
+    
+
+    <TextView
+        android:id="@+id/lvItemUnitPrice_yiku"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/lvItemTotalMoney_yiku"
+        android:background="#DDDDDD"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+
+     <TextView
+        android:id="@+id/lvItemkuFangName_yiku"
+        
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+    
+     <TextView
+        android:id="@+id/lvItemKuWeiName_yiku"
+        android:background="#DDDDDD"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+    
+    <!--  
+    <Button
+        android:id="@+id/lvItemBack_yiku"
+        android:layout_width="100dp"
+        android:background="@null"
+        android:textSize="14sp"
+        android:layout_height="match_parent"
+        android:gravity="center" 
+        />
+        -->
+
+</LinearLayout>

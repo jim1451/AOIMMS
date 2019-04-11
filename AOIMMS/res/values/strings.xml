@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">OIMMS</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="exit">Exit</string>
+    <string name="new_password">New_Pwd</string>
+    <string name="confirm_password">Confirm_Password</string>
+    <string name="user_type">Type</string>
+    <string name="administrator">Administrator</string>
+    <string name="ordinary_user">Ordinary</string>
+    <string name="save">Save</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="user_add">Add</string>
+    <string name="inventory_tijiao">Addinventory</string>
+    <string name="inventory_jieguo">InventoryResult</string>
+    <string name="inventory_duibi">InventoryDuibi</string>
+    
+    <string name="user_delete">Delete</string>
+    <string name="user_edit">Edit</string>
+    <string name="outbond">Outbond</string>
+     <string name="black">Black</string>
+    <string name="inbond">Inbond</string>
+    <string name="tuiku">TuiKu</string>
+    <string name="yiku">YiKu</string>
+    <string name="query1">Query</string>
+    <string name="shangchuang">Shangchuang</string>
+    <string name="duibi">Contrast</string>
+    <string name="inventory">Inventory</string>
+    <string name="query">Query</string>
+    
+    
+    <string name="user_list">UserList</string>
+    <string name="sure">Sure</string>
+    <string name="old_password">Old_Pwd</string>
+    <string name="message_delete">Are you sure that you want to delete the selected users?</string>
+    <string name="done">Done</string>
+    <string name="stop">Stop</string>
+    <string name="clear">Clear</string>
+    <string name="check">Check</string>
+    <string name="no.">No.</string>
+    <string name="epc">EPC</string>
+    <string name="rukuDanHao">InbondDanHao</string>
+    <string name="piaoHao">PiaoHao</string>
+    <string name="ISPName">ISPName</string>
+    <string name="ccdc">CCDC</string>
+    <string name="cnpc">CNPC</string>
+    <string name="goods_name">Name</string>
+    <string name="goods_xiyuname">XiyuName</string>
+    <string name="goods_inbond_num">InbondNum</string>
+    <string name="goods_outbond_num">OutbondNum</string>
+    <string name="goods_inventory_num">InventoryNum</string>
+    <string name="goods_tuiku_num">TuikuNum</string>
+     <string name="goods_yiku_num">YikuNum</string>
+    
+    <string name="goods_show_num">ShowNum</string>
+    
+    <string name="kufang">KuFang</string>
+     <string name="zhanghu">ZhangHu</string>
+    <string name="kuwei">KuWei</string>
+    <string name="goods_type">Type</string>
+    <string name="goods_unit">Unit</string>
+    <string name="goods_unitPrice">UnitPrice</string>
+    <string name="goods_totalMoney">MoneyT</string>
+     <string name="goods_kuFangHao">Storehouse</string>
+     <string name="goods_KuWeiHao">Storehouse—Site</string>
+    
+    
+    <string name="goods_totalMoney1">Bond</string>
+    <string name="username_is_empty">Username is empty!</string>
+    <string name="password_is_empty">Password is empty!</string>
+    <string name="password_confirm_is_empty">Confirm_password is empty!</string>
+    <string name="type_have_no_choice">User_type have no choice!</string>
+    <string name="add_user_success">Add_user_success!</string>
+    <string name="add_user_failure">Add_user_failure!</string>
+    <string name="user_already_exists">User already exists!</string>
+    <string name="two_Input_password_different">Two input password different!</string>
+    <string name="wrong_password">Wrong Password!</string>
+    <string name="old_password_is_empty">Old_password is empty!</string>
+    <string name="new_password_is_empty">New_password is empty!</string>
+    <string name="delete_success">Delete Success!</string>
+    <string name="delete_failure">Delete failure!Please try it again!</string>
+    <string name="save_success">Save Success!</string>
+    <string name="save_failure">Save Failure!</string>
+    
+    <string name="login_success">Login Success!</string>
+    <string name="user_not_exists">User not exists!</string>
+    <string name="user_permission">Sorry!Only administrator have the permissions to open!</string>
+    <string name="back_inbond_message">Are you sure that you want to cancel the inbound operation just now?</string>
+    <string name="confirm_inbond_message">Are you sure that you want to put these material inbond?</string>
+    <string name="confirm_outbond_message">Are you sure that you want to put these material outbond?</string>
+    <string name="confirm_tuiku_message">Are you sure that you want to put these material withdrawing?</string>
+    <string name="confirm_yiku_message">Are you sure that you want to put these material transfer?</string>
+    <string name="confirm_pangdian_message">Are you sure that you want to put these material inventory?</string>
+    
+    <string name="Withdraw_inbond_failure">Withdraw Inbond operate failure!</string>
+    <string name="Withdraw_inbond_success">Withdraw Inbond operate success!</string>
+    <string name="outbond_cancel">Outbond_cancel!</string>
+    <string name="tuiku_cancel">Tuiku_cancel!</string>
+    
+    <string name="yiku_cancel">Yiku_cancel!</string>
+    
+    <string name="inventory_cancel">Inventory_cancel!</string>
+    <string name="inbond_cancel">Inbond_cancel!</string>
+    <string name="goods_remark">Remark</string>  
+    <string name="goods_kuwei">Kuwei</string> 
+    <string name="goods_kufang">Kufang</string> 
+     <string name="goods_InventNum">Number</string>
+      <string name="goods_InventMoney">NumberMoney</string>  
+      <string name="goods_Status">Status</string> 
+      
+    <string name="input_unitprice">UnitPrice</string>
+    <string name="inbond_date">InbondDate</string>
+    
+    <string name="inbond_done_message">The inventory goods already all into the Library</string>
+    <string name="outbond_done_message">The inventory goods already all outbond</string>
+    <string name="yiku_done_message">The inventory goods already all Transfer</string>
+    <string name="inventory_done_message">The inventory goods already all done</string>
+    <string name="tuiku_done_message">The inventory goods already all withdrawing</string>
+    <string name="continue_inventory">Continue to inventory</string>
+    <string name="back_to_main">Back to MainActivity</string>
+    <string name="inbond_epc_exist">The following EPC tag already in the library,The corresponding material inbond action not effective:</string>
+    <string name="outbond_epc_exist">The following EPC tag already out of library,The corresponding material outbond action not effective:</string>
+    <string name="tuiku_epc_exist">The following EPC tag already withdrawing,The corresponding material tuiku action not effective:</string>
+    <string name="lingliao_name">LingliaoName</string>
+    <string name="outbond_date">OutbondDate</string>
+    <string name="tuiku_date">TuikuDate</string>
+    <string name="yiku_date">YikuDate</string>
+   <string name="inventory_date">over_Date</string>
+    <string name="inventory_date1">over_Time</string>
+   
+   
+    <string name="inventory_date_kaishi">Date</string>
+    <string name="inventory_date_kaishi1">Time</string>
+    
+    <string name="back">Back</string>
+    <string name="Update">Update</string>
+    <string name="DatabaseIP">DB ip</string>
+    <string name="DatabaseName">DB Name</string>
+    <string name="DatabaseUser">DB user</string>
+    <string name="DatabasePass">DB password</string>
+    <string name="UpdateIP">update ip</string>
+    <string name="LogIP">log ip</string>
+    <string name="LogPort">log port</string>
+    <string name="Simulation">Simulated data</string>
+    <string name="IsSim">Whether simulation(box simulation)</string>
+    
+</resources>
